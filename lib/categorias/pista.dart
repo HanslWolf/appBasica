@@ -92,7 +92,7 @@ class Pista extends StatelessWidget {
                               ClipRRect(
                                 borderRadius: BorderRadius.circular(12),
                                 child: Image.asset(
-                                  'assets/image_principal/carreras1.jpg',
+                                  'assets/image_pista/velocidad.jpg',
                                   width: 60,
                                   height: 60,
                                   fit: BoxFit.cover,
@@ -147,7 +147,7 @@ class Pista extends StatelessWidget {
                               ClipRRect(
                                 borderRadius: BorderRadius.circular(12),
                                 child: Image.asset(
-                                  'assets/image_principal/lanzamientos2.jpg',
+                                  'assets/image_pista/medioFondo.jpg',
                                   width: 60,
                                   height: 60,
                                   fit: BoxFit.cover,
@@ -159,7 +159,7 @@ class Pista extends StatelessWidget {
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: [
                                     Text(
-                                      'MEdio Fondo',
+                                      'Medio Fondo',
                                       style: TextStyle(
                                         fontSize: 18,
                                         fontWeight: FontWeight.bold,
@@ -202,7 +202,7 @@ class Pista extends StatelessWidget {
                               ClipRRect(
                                 borderRadius: BorderRadius.circular(12),
                                 child: Image.asset(
-                                  'assets/image_principal/marcha3.jpg',
+                                  'assets/image_pista/fondo.jpg',
                                   width: 60,
                                   height: 60,
                                   fit: BoxFit.cover,
@@ -257,7 +257,7 @@ class Pista extends StatelessWidget {
                               ClipRRect(
                                 borderRadius: BorderRadius.circular(12),
                                 child: Image.asset(
-                                  'assets/image_principal/ruta4.jpg', // Asegúrate de tener esta imagen en assets
+                                  'assets/image_pista/vallas.jpg', // Asegúrate de tener esta imagen en assets
                                   width: 60,
                                   height: 60,
                                   fit: BoxFit.cover,
@@ -312,7 +312,7 @@ class Pista extends StatelessWidget {
                               ClipRRect(
                                 borderRadius: BorderRadius.circular(12),
                                 child: Image.asset(
-                                  'assets/image_principal/combinadas5.jpg', // Asegúrate de tener esta imagen en assets
+                                  'assets/image_pista/obstaculos.jpg', // Asegúrate de tener esta imagen en assets
                                   width: 60,
                                   height: 60,
                                   fit: BoxFit.cover,
@@ -367,7 +367,7 @@ class Pista extends StatelessWidget {
                               ClipRRect(
                                 borderRadius: BorderRadius.circular(12),
                                 child: Image.asset(
-                                  'assets/image_principal/montañaTrail6.jpg', // Asegúrate de tener esta imagen en assets
+                                  'assets/image_pista/relevos.jpg', // Asegúrate de tener esta imagen en assets
                                   width: 60,
                                   height: 60,
                                   fit: BoxFit.cover,
