@@ -43,7 +43,7 @@ class Velocidad extends StatelessWidget {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    const SizedBox(height: 150),
+                    const SizedBox(height: 100),
 
                     // Título principal
                     const Text(
@@ -189,7 +189,7 @@ class MedioFondo extends StatelessWidget {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    const SizedBox(height: 150),
+                    const SizedBox(height: 100),
 
                     const Text(
                       'Carreras de Medio Fondo',
@@ -329,7 +329,7 @@ class Fondo extends StatelessWidget {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    const SizedBox(height: 150),
+                    const SizedBox(height: 100),
 
                     const Text(
                       'Carreras de Fondo',

@@ -59,6 +59,9 @@ flutter:
   assets:
    - assets/image_principal/
    - assets/image_pista/
+   - assets/image_ruta/
+   - assets/image_campo/
+   - assets/image_marcha/
 
   # To add assets to your application, add an assets section, like this:
   # assets:
